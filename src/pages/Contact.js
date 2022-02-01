@@ -32,9 +32,9 @@ function Contact() {
                 placeholder="Message..."
               />
 
-              <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+              <a href="mailto:heathendustries@gmail.com">
                 <button className="primary-button mt-3">
-                  SUMBIT
+                  SEND EMAIL
                 </button>
               </a>
             </div>

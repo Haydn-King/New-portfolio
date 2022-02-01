@@ -49,6 +49,9 @@ function Footer() {
               <br />
 
               <p>Andrew Haydn Millikin</p>
+              <a href="mailto:heathendustries@gmail.com">
+                <p>heathendustries@gmail.com</p>
+              </a>
             </div>
           </div>
         </div>
