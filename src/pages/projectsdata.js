@@ -35,11 +35,11 @@ const projectsdata = [
     link: "https://project-react-events.firebaseapp.com/",
   },
   {
-    title: "Swear Jar",
-    image: "./swearjar.png",
+    title: "Crypto Price Updates",
+    image: "./crypto-price-updates.png",
     description:
       "Writing, recording, and performing live as the drummer for Swear Jar!",
-    link: "https://open.spotify.com/artist/2ghHVxC4H6yb3N9JRkYHMF",
+    link: "https://naughty-goldstine-dfb7af.netlify.app/",
   },
 ];
 
