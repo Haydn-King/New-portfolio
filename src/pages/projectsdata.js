@@ -38,8 +38,22 @@ const projectsdata = [
     title: "Crypto Price Updates",
     image: "./crypto-price-updates.png",
     description:
-      "Writing, recording, and performing live as the drummer for Swear Jar!",
+      "Live Cryptocurrency price updates using CAD CoinGecko API",
     link: "https://naughty-goldstine-dfb7af.netlify.app/",
+  },
+  {
+    title: "Flappy Bird Clone",
+    image: "./flappybird.png",
+    description:
+      "Flappy Bird Clone built using JavaScript and Phaser 3",
+    link: "https://quizzical-shockley-072ea5.netlify.app/",
+  },
+  {
+    title: "Simple Platform Game",
+    image: "./platformer.png",
+    description:
+      "A Simple Platform game built using JavaScript and Phaser 3",
+    link: "https://wonderful-liskov-f195ab.netlify.app/",
   },
 ];
 
