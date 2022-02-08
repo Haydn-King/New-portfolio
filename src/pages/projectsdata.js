@@ -42,6 +42,13 @@ const projectsdata = [
     link: "https://naughty-goldstine-dfb7af.netlify.app/",
   },
   {
+    title: "Crystal World Platform Game",
+    image: "./splash_screen.png",
+    description:
+      "A Simple Crystal World Platform game built using JavaScript and Phaser 3",
+    link: "https://tranquil-brushlands-50560.herokuapp.com/",
+  },
+  {
     title: "Flappy Bird Clone",
     image: "./flappybird.png",
     description:
