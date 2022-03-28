@@ -42,6 +42,13 @@ const projectsdata = [
 		link: "https://drive.google.com/file/d/1v52XPb_Jdbt-T4q4qt62zmzUAcZh9xKk/view?usp=sharing",
 	},
 	{
+		title: "Unity Tappy Racer Game",
+		image: "./tappy.png",
+		description:
+			"Simple Racing Game built with C# & Unity. Collect gems and stay on the track.",
+		link: "https://haydnking.itch.io/tappy-racer",
+	},
+	{
 		title: "React Events",
 		image: "./react-events.png",
 		description:
