@@ -166,7 +166,7 @@ function Home() {
                   {
                     name: "Andrew Haydn Millikin",
                     from: "Canada",
-                    age: 30,
+                    age: 31,
                     gender: "Male",
                   },
                   null,
