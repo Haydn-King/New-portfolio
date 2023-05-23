@@ -35,6 +35,14 @@ const projectsdata = [
 		link: "https://drive.google.com/file/d/1o6yW9zJrK-dHfcFCIdATFCKC47YVdgK3/view?usp=sharing",
 	},
 	{
+		title:
+			"Unreal Engine 5 & C++ - Multiplayer Third Person Shooter",
+		image: "./UE5MultShooter.png",
+		description:
+			"A FPS game built with Unreal Engine 5 and Blueprints.",
+		link: "https://drive.google.com/file/d/1Yi8ZZH_YBTXdKbQAdm4NShCF6PvxNyGT/view?usp=sharing",
+	},
+	{
 		title: "Unity RPG Adventure Game",
 		image: "./RPGAdventure.png",
 		description:
